@@ -15,7 +15,8 @@ Setting in app/Controllers/Home.php
 1. Start your app
 2. `/1` or `/index.php/1` to test route can set number(`/?`)sec for test speed
 3. `/` or `/index.php` to see log
-   
+
+speeds is float 3 decimal places can change in [Set Events](app/Config/Events.php). Line 36
 ## Server Requirements
 
 PHP version 7.4 or higher is required, with the following extensions installed:
